@@ -1,0 +1,1674 @@
+@media screen  and (max-width: 1024px) {
+    .conteiner {
+        padding: 15px 40px;
+        position: relative;
+        overflow: hidden;
+    }
+
+    .conteiner .navlink ul li a {
+        font-size: 12px;
+    }
+
+    .conteiner .navlink ul {
+        /* position: absolute; */
+        left: 250px;
+    }
+
+    .conteiner .h11 {
+        font-size: 40px;
+    }
+
+    .conteiner .p1 {
+        font-size: 40px;
+    }
+
+    .conteiner .pp {
+        /* position: absolute; */
+        left: 965px;
+        bottom: 5450px;
+    }
+
+    .conteiner .button {
+        /* position: absolute; */
+        left: 690px;
+        top: 535px;
+    }
+
+    .conteiner .img1 {
+        width: 520px;
+        left: 360px;
+    }
+
+    .conteiner .box1 {
+        /* position: absolute; */
+        left: 380px;
+    }
+
+    .conteiner .img2 {
+        /* position: absolute; */
+            right: 70px;
+    }
+
+    .conteiner .box2 {
+        /* position: absolute; */
+        left: 560px;
+    }
+
+    .conteiner .p6 {
+        /* position: absolute; */
+        left: 80px;
+    }
+    .conteiner .p7 {
+        left: 80px;
+    }
+    .conteiner .p8 {
+        left: 80px;
+    }
+
+    .conteiner .box3 {
+        /* position: absolute; */
+        left: 750px;
+    }
+
+    .conteiner .content3 {
+        flex-wrap: wrap;
+    }
+
+    .conteiner .item {
+        width: 275px;
+    }
+
+    .conteiner .img3 {
+        width: 215px;
+        background-size: 100% 100%;
+        height: 100px;
+    }
+    .conteiner .img4 {
+        width: 215px;
+        background-size: 100% 100%;
+        height: 100px;
+    }
+    .conteiner .img5 {
+        width: 215px;
+        background-size: 100% 100%;
+        height: 100px;
+    }
+
+    .conteiner .box10 {
+        /* position: absolute; */
+        top: 45%;
+        left: 500px;
+    }
+    .conteiner .box11 {
+        /* position: absolute; */
+        top: 48%;
+        left: 500px;
+    }
+    .conteiner .box12 {
+        /* position: absolute; */
+        top: 45%;
+        left: 740px;
+    }
+    .conteiner .box13 {
+        /* position: absolute; */
+        top: 48%;
+        left: 740px;
+    }
+
+    .conteiner .img11 {
+        position: relative;
+        right: 90px;
+    }
+
+    .conteiner .p27 {
+        position: relative;
+        right: 90px;
+    }
+
+    .conteiner .content7 .box {
+        position: relative;
+        right: 90px;
+ 
+ 
+    }
+    .conteiner .content7 .p26 {
+        position: relative;
+        right: 90px;
+    }
+
+    .conteiner .content6 {
+        top: 53%;
+    }
+
+    .conteiner .img7 {
+        width: 500px;
+        height: 378px;
+    }
+
+    .conteiner .box8 {
+        width: 500px;
+        height: 690px;
+    }
+
+    .conteiner .share {
+        position: absolute;
+        left: 614px;
+        top: 3673px;
+    }
+
+    .conteiner .content6 {
+        left: 600px;
+    }
+
+    .conteiner .content10 {
+        position: relative;
+    }
+
+    .conteiner .item1 {
+        width: 300px;
+    }
+
+    .conteiner .img12 {
+        width: 513px;
+        height: 495px;
+        left: 479px;
+        top: 75%;
+    }
+
+    .conteiner .p32 {
+        position: relative;
+        right: 60px;
+    }
+
+    .conteiner .box21 {
+        position: relative;
+        right: 60px;
+    }
+
+    .conteiner .p33 {
+        position: relative;
+        right: 60px;
+    }
+
+    .conteiner .inp {
+        position: relative;
+        right: 60px;
+    }
+
+    .conteiner .p34 {
+        position: relative;
+        right: 60px;
+    }
+
+    .conteiner label {
+        position: relative;
+        right: 60px;
+    }
+
+    .conteiner .chec {
+        position: relative;
+        right: 60px;
+    }
+
+    .conteiner button {
+        position: relative;
+        right: 60px;
+    }
+
+    .conteiner .img13 {
+        width: 611px;
+    }
+
+    .conteiner .box22 {
+        /* left: 685px; */
+        position: absolute;
+        top: 10px;
+        left: 685px;
+        /* right: 50px; */
+    }
+
+    .conteiner .content12 {
+        gap: 104px;
+        left: 212px;
+    }
+}
+
+
+@media screen  and (max-width: 768px) {
+    .conteiner {
+        padding: 10px 30px;
+    }
+
+    .conteiner .navlink ul li a {
+        font-size: 8px;
+    }
+
+    .conteiner .navbar .logo {
+        width: 50px;
+        height: 52px;
+        position: relative;
+        top: 10px;
+    } 
+
+    .lll {
+        width: 25px;
+        height: 25px;
+        position: relative;
+        right: 25px;
+        top: 3px;
+    }
+
+    .conteiner .navlink ul {
+        /* position: absolute; */
+        left: 100px;
+    }
+
+    .conteiner .h11 {
+        font-size: 30px;
+    }
+
+    .conteiner .p1 {
+        font-size: 30px;
+    }
+
+    .conteiner .pp {
+        /* position: absolute; */
+        left: 716px;
+        bottom: 4750px;
+
+    }
+
+    .conteiner .button {
+        left: 467px;
+        top: 530px;
+    }
+
+    .conteiner .img1 {
+        left: 360px;
+        width: 331px;
+        height: 185px;
+        background-size: cover;
+    }
+
+    .conteiner .p3 {
+        position: relative;
+        right: 70px;
+    }
+    .conteiner .p4 {
+        position: relative;
+        right: 70px;
+    }
+    .conteiner .p5 {
+        position: relative;
+        right: 70px;
+    }
+
+    .conteiner .box {
+        position: relative;
+        right: 70px;    
+    }
+
+    .conteiner .box1 {
+        position: absolute;
+        left: 280px;
+        top: 190px;
+        /* bottom: 200px; */
+    }
+
+    .conteiner .img2 {
+        /* position: absolute; */
+            right: 70px;
+            width: 331px;
+            height: 185px;
+            background-size: cover;
+            
+    }
+
+    .conteiner .content1 {
+        position: relative;
+            height: 260px;
+    }
+    .conteiner .img1 {
+        position: absolute;
+            right: 70px;
+            top: 76px;
+    }
+
+    .conteiner .box2 {
+        /* position: absolute; */
+        left: 355px;
+        bottom: 190px;
+    }
+
+    .conteiner .p6 {
+        /* position: absolute; */
+        left: 80px;
+    }
+    .conteiner .p7 {
+        left: 80px;
+    }
+    .conteiner .p8 {
+        left: 80px;
+    }
+
+    .conteiner .box3 {
+        /* position: absolute; */
+        left: 515px;
+    }
+
+    .conteiner .content3 {
+        flex-wrap: wrap;
+    }
+
+    .conteiner .content2 {
+        height: 642px;
+    }
+
+    .conteiner .item {
+        width: 198px;
+        height: 490px;
+    }
+
+    .conteiner .p10 {
+        font-size: 16px;
+    }
+
+    .conteiner .img3 {
+        width: 150px;
+        background-size: 100% 100%;
+        height: 90px;
+    }
+    .conteiner .img4 {
+        width: 150px;
+        background-size: 100% 100%;
+        height: 90px;
+    }
+    .conteiner .img5 {
+        width: 150px;
+        background-size: 100% 100%;
+        height: 90px;
+    }
+
+    .conteiner .img6 {
+        height: 270px;
+    }
+
+    .conteiner .box6 {
+        top: 103px;
+    }
+
+    .conteiner .content4 {
+        height: 445px;
+    }
+
+    .conteiner .p11 {
+        font-size: 9px;
+    }
+
+    .conteiner .p12 {
+        font-size: 13px;
+    }
+
+    .conteiner .p13 {
+        font-size: 14px;
+    }
+    .conteiner .p14 {
+        font-size: 14px;
+        bottom: 15px;
+    }
+
+    .conteiner .box10 {
+        top: 43%;
+    left: 360px;
+    }
+    .conteiner .box11 {
+        /* position: absolute; */
+        top: 46%;
+        left: 360px;
+    }
+    .conteiner .box12 {
+        /* position: absolute; */
+        top: 43%;
+        left: 584px;
+    }
+    .conteiner .box13 {
+        /* position: absolute; */
+        top: 46%;
+        left: 584px;
+    }
+
+    .conteiner .content7 .p26 {
+        font-size: 19px;
+    }
+    .conteiner .content7 .p27 {
+        font-size: 13px;
+    }
+
+    .conteiner .img11 {
+        position: relative;
+        right: 90px;
+        width: 309px;
+    height: 141px;
+    background-size: 100% 100%;
+    }
+
+    .conteiner .p27 {
+        position: relative;
+        right: 90px;
+    }
+    .conteiner .p28 {
+        font-size: 14px;
+    }
+    .conteiner .p29 {
+        font-size: 13px;
+    }
+
+    .conteiner .content7 .box {
+        position: relative;
+        right: 90px;
+ 
+ 
+    }
+    .conteiner .content7 .p26 {
+        position: relative;
+        right: 90px;
+    }
+
+    .conteiner .content6 {
+        top: 2715px;
+
+        left: 455px;
+    }
+
+    .conteiner .img7 {
+        width: 407px;
+        height: 295px;
+        background-size: 100% 100%;
+    }
+
+    .conteiner .box8 {
+        width: 407px;
+        height: 690px;
+    }
+
+    .conteiner .share {
+        position: absolute;
+        left: 389px;
+        top: 3273px;
+    }
+
+    .conteiner .box15 {
+        gap: 57px;
+    }
+
+    .conteiner .box16 {
+        left: 6px;
+    }
+
+    .conteiner .box17 {
+        left: 182px;
+    }
+
+    .conteiner .box18 {
+        left: 330px;
+    }
+    .conteiner .box19 {
+        left: 497px;
+    }
+    .conteiner .box20 {
+        left: 607px;
+    }
+
+    .conteiner .content5 {
+        height: 825px;
+    }
+
+    .conteiner .content9 {
+        height: 545px;
+    }
+
+    .conteiner .p31 {
+        font-size: 12px;
+    }
+
+    .conteiner .p32 {
+        font-size: 18px;
+    }
+
+    .conteiner .item2 {
+        height: 43px;
+    }
+
+
+    .conteiner .p30 {
+        font-size: 11px;
+    }
+
+    .conteiner .content10 {
+        position: relative;
+        height: 472px;
+    }
+
+    .conteiner .item1 {
+        width: 300px;
+    }
+
+    .conteiner .img12 {
+        width: 390px;
+        height: 468px;
+        left: 347px;
+        top: 3880px;
+    }
+
+    .conteiner .p32 {
+        position: relative;
+        right: 60px;
+    }
+
+    .conteiner .content8 {
+    height: 420px;
+    }
+
+    .conteiner .box21 {
+        position: relative;
+        right: 60px;
+        width: 155px;
+    }
+
+    .conteiner .p33 {
+        position: relative;
+        right: 60px;
+        font-size: 13px;
+    }
+
+    .conteiner .inp {
+        position: relative;
+        right: 60px;
+        width: 310px;
+    height: 35px;
+    }
+
+    .conteiner .p34 {
+        position: relative;
+        right: 60px;
+    }
+
+    .conteiner label {
+        position: relative;
+        right: 60px;
+    }
+
+    .conteiner .chec {
+        position: relative;
+        right: 60px;
+    }
+
+    .conteiner button {
+        position: relative;
+        right: 60px;
+        width: 309px;
+    height: 44px;
+    }
+
+    .conteiner .img13 {
+        width: 385px;
+        background-size: 100% 100%;
+    }
+
+    .conteiner .box22 {
+        /* left: 685px; */
+        position: absolute;
+        top: 10px;
+        left: 444px;
+        /* right: 50px; */
+    }
+
+    .conteiner .map {
+        left: 197px;
+     }
+
+    .conteiner .content12 {
+        gap: 60px;
+        left: 183px;
+        top: 3px;
+    }
+
+    .conteiner .content12 a {
+        font-size: 11px;
+    }
+}
+
+
+
+
+@media screen  and (max-width: 425px) {
+    .conteiner {
+        padding: 5px 20px;
+        /* background-color: red; */
+    }
+
+    .conteiner .navlink ul li a {
+        font-size: 5px;
+        position: relative;
+        bottom: 10px;
+        display: none;
+    }
+
+    .conteiner .navbar {
+        height: 57px;
+    }
+
+    .conteiner .navbar .logo {
+        width: 30px;
+        height: 32px;
+        margin: 0 auto;
+    } 
+
+    .lll {
+        width: 15px;
+        height: 15px;
+        position: relative;
+        top: 3px;
+        left: 1px;
+    }
+
+    .conteiner .navlink ul {
+        /* position: absolute; */
+        left: 60px;
+        gap: 25px;
+    }
+
+    .conteiner .h11 {
+        font-size: 20px;
+        left: 35px;
+    }
+
+    .conteiner .content {
+        height: 312px;
+    }
+    .conteiner .p1 {
+        font-size: 20px;
+    }
+
+    .conteiner .pp {
+        /* position: absolute; */
+        left: 379px;
+        gap: 70px;
+        bottom: 4448px;
+    }
+
+    .conteiner .a1 {
+        top: 340px;
+        right: 255px;
+    }
+
+    .qwe {
+        width: 50px;
+        height: 34px;
+    }
+
+    .conteiner .ovval {
+        top: 130px;
+    left: 80px;
+    }
+    .conteiner .p2 {
+        font-size: 12px;
+    }
+
+    .conteiner .kema {
+        width: 94%;
+        height: 250px;
+        background-size: 100% 100%;
+    }
+
+    .conteiner .button {
+        left: 280px;
+        top: 339px;
+    }
+
+    .conteiner .img1 {
+        left: 360px;
+        width: 331px;
+        height: 185px;
+        background-size: cover;
+    }
+
+    .conteiner .p3 {
+        position: relative;
+        right: 70px;
+        font-size: 10px;
+    }
+    .conteiner .p4 {
+        position: relative;
+        right: 70px;
+        font-size: 10px;
+
+    }
+    .conteiner .p5 {
+        position: relative;
+        right: 70px;
+        font-size: 10px;
+
+    }
+
+    .conteiner .box {
+        position: relative;
+        right: 70px;
+        width: 100px;   
+    }
+
+    .conteiner .box1 {
+        position: absolute;
+        left: 174px;
+        top: 152px;
+        /* bottom: 200px; */
+    }
+
+    .kkk {
+        width: 30px;
+        height: 30px;
+    }
+
+    .conteiner .arrow1 {
+        width: 16px;
+        height: 9px;
+        right: 26px;
+    bottom: 11px;
+    }
+    .conteiner .arrow10 {
+        width: 16px;
+        height: 9px;
+        position: relative;
+        right: 27px;
+        bottom: 11px;
+    }
+
+
+
+    .conteiner .img2 {
+        /* position: absolute; */
+            right: 70px;
+            width: 171px;
+            height: 171px;
+            background-size: 100% 100%; 
+            
+    }
+
+    .conteiner .content1 {
+        position: relative;
+            height: 260px;
+    }
+    .conteiner .img1 {
+        position: absolute;
+            right: 70px;
+            top: 76px;
+            left: 217px;
+            width: 172px;
+    height: 162px;
+    background-size: 100% 100%;
+    }
+
+    .conteiner .box2 {
+        /* position: absolute; */
+        left: 182px;
+        bottom: 119px;
+    }
+
+    .conteiner .p6 {
+        /* position: absolute; */
+        left: 80px;
+        font-size: 10px;
+
+    }
+    .conteiner .p7 {
+        left: 80px;
+        font-size: 10px;
+
+    }
+    .conteiner .p8 {
+        left: 80px;
+        font-size: 10px;
+
+    }
+
+    .conteiner .box3 {
+        /* position: absolute; */
+        width: 100px;
+
+        left: 222px;
+    }
+
+    .conteiner .content3 {
+        flex-wrap: wrap;
+    }
+
+    .conteiner .content2 {
+        height: 500px;
+    }
+
+    .conteiner .p9 {
+        font-size: 20px;
+    }
+
+    .conteiner .box4 {
+        width: 110px;
+    }
+
+    .conteiner .item {
+        width: 91px;
+        height: 390px;
+        padding: 7px 4px;
+    }
+
+    .conteiner .p10 {
+        font-size: 5px;
+    }
+
+    .conteiner .img3 {
+        width: 83px;
+        background-size: 100% 100%;
+        height: 90px;
+    }
+    .conteiner .img4 {
+        width: 83px;
+        background-size: 100% 100%;
+        height: 90px;
+    }
+    .conteiner .img5 {
+        width: 83px;
+        background-size: 100% 100%;
+        height: 90px;
+    }
+
+    .conteiner .img6 {
+        height: 200px;
+        position: relative;
+    }
+
+    .conteiner .box6 {
+        top: 84px;
+        left: 5px;
+    }
+
+    .conteiner .video {
+        width: 30px;
+        height: 30px;
+    }
+
+    .conteiner .arrow2 {
+        width: 10px;
+        height: 18px;
+        position: absolute;
+        left:  109px;
+        right: 60px;
+        bottom: 10px;
+    }
+
+    .conteiner .share {
+        display: none;
+    }
+
+    .conteiner .content4 {
+        height: 345px;
+    }
+    
+
+    .conteiner .p11 {
+        font-size: 8px;
+        position: relative;
+        bottom: 20px;
+    }
+
+    .conteiner .p12 {
+        font-size: 9px;
+        position: relative;
+        bottom: 52px;
+    }
+
+    .conteiner .p13 {
+        font-size: 9px;
+        position: relative;
+        bottom: 40px;
+    }
+    .conteiner .p14 {
+        font-size: 9px;
+        bottom: 50px;
+    }
+
+    .conteiner .p15 {
+        font-size: 19px;
+    }
+
+    .conteiner .box5 {
+        width: 120px;
+    }
+
+    .conteiner .fill {
+        position: relative;
+        bottom: 39px;
+    }
+
+    .conteiner .box10 {
+        top: 397%;
+    left: 360px;
+    display: none;
+    }
+    .conteiner .box11 {
+        /* position: absolute; */
+        top: 426%;
+        left: 360px;
+        display: none;
+    }
+    .conteiner .box12 {
+        /* position: absolute; */
+        top: 397%;
+        left: 584px;
+        display: none;
+    }
+    .conteiner .box13 {
+        /* position: absolute; */
+        top: 426%;
+        left: 584px;
+        display: none;
+    }
+
+    .conteiner .content7 .p26 {
+        font-size: 19px;
+    }
+    .conteiner .content7 .p27 {
+        font-size: 13px;
+    }
+
+    .conteiner .img11 {
+        position: relative;
+        right: 90px;
+        width: 309px;
+    height: 141px;
+    background-size: 100% 100%;
+    }
+
+    .conteiner .p27 {
+        position: relative;
+        right: 90px;
+    }
+    .conteiner .p28 {
+        font-size: 14px;
+    }
+    .conteiner .p29 {
+        font-size: 13px;
+    }
+
+    .conteiner .ovval1 {
+        width: 30px;
+        height: 30px;
+    }
+
+    .conteiner .vector {
+        width: 20px;
+        height: 20px;
+        position: relative;
+        right: 28px;
+        bottom: 7px;
+    }
+    .conteiner .vector1 {
+        width: 20px;
+        height: 20px;
+        position: relative;
+        right: 28px;
+        bottom: 7px;
+    }
+    .conteiner .vector2 {
+        width: 20px;
+        height: 20px;
+        position: relative;
+        right: 28px;
+        bottom: 7px;
+    }
+    .conteiner .vector3{
+        width: 20px;
+        height: 20px;
+        position: relative;
+        right: 28px;
+        bottom: 7px;
+    }
+
+    .conteiner .content7 .box {
+        position: relative;
+        right: 90px;
+    }
+    .conteiner .content7 .p26 {
+        position: relative;
+        right: 90px;
+    }
+
+    .conteiner .content6 {
+        top: 2678px;
+        left: 21px;
+        display: flex;
+    }
+
+    .conteiner .img7 {
+        width: 100%;
+        height: 180px;
+         background-size: 100% 100%;
+    }
+
+    .conteiner .p16 {
+        font-size: 9px;
+    }
+
+    .conteiner .p17{
+        font-size: 13px;
+    }
+
+    .conteiner .p18 {
+        font-size: 12px;
+    }
+
+    .conteiner .p19 {
+        font-size: 11px;
+    }
+    .conteiner .p20 {
+        font-size: 11px;
+    }
+
+    .conteiner .img8 {
+        width: 45px;
+        height: 45px; 
+        background-size: 100% 100%;
+    }
+
+    .conteiner .box8 {
+        width: 388px;
+        height: 407px;
+    }
+
+    .conteiner .share {
+        position: absolute;
+        left: 389px;
+        top: 3273px;
+    }
+
+    .conteiner .box15 {
+        gap: 15px;
+    }
+
+    .conteiner .box16 {
+        left: 2px;
+        top: 5px;
+        gap: 16px;
+    }
+
+
+    .conteiner .box17 {
+        left: 105px;
+        top: -21px;
+        gap: 16px;
+        position: relative;
+    }
+
+
+    .conteiner .box18 {
+        left: 2px;
+        top: -21px;
+        gap: 10px;
+    }
+
+
+    .conteiner .box18 {
+        left: 167px;
+        top: -45px;
+    gap: 16px;
+    }
+    .conteiner .box19 {
+        left: 262px;
+        bottom: 70px;
+        gap: 16px;
+    }
+    .conteiner .box20 {
+        left: 316px;
+        bottom: 96px;
+        gap: 16px;
+    }
+
+    .conteiner .content5 {
+        height: 950px;
+
+    }
+
+    .conteiner .content9 {
+        height: 780px;
+    }
+
+    .conteiner .p31 {
+        font-size: 8px;
+    }
+
+    .conteiner .p32 {
+        font-size: 18px;
+    }
+
+    .conteiner .item2 {
+        height: 25px;
+    }
+    .conteiner .item3 {
+        height: 25px;
+    }
+    .conteiner .item4 {
+        height: 25px;
+    }
+    .conteiner .item5 {
+        height: 25px;
+    }
+    .conteiner .item6 {
+        height: 25px;
+    }
+
+    .conteiner .p30 {
+        font-size: 7px;
+    }
+
+    .conteiner .content10 {
+        position: relative;
+        height: 277px;
+    }
+
+    .conteiner .item1 {
+        width: 180px;
+        height: 386px;
+    }
+
+    .conteiner .h111 {
+        font-size: 13px;
+    }
+
+    .conteiner .box14 {
+        width: 188px;
+    }
+
+    .conteiner .img9 {
+        background-size: 49% 100%;
+    }
+
+
+    .conteiner .img10 {
+        background-size: 49% 100%;
+    }
+
+    .conteiner .img12 {
+        width: 90%;
+        height: 265px;
+        left: 21px;
+        top: 3853px;
+
+    }
+
+    .conteiner .p32 {
+        position: relative;
+        right: 60px;
+        font-size: 13px;
+    }
+
+    .conteiner .content8 {
+    height: 270px;
+    }
+
+    .conteiner .box21 {
+        position: relative;
+        right: 60px;
+        width: 115px;
+    }
+
+    .conteiner .p33 {
+        position: relative;
+        right: 60px;
+        font-size: 13px;
+    }
+
+    .conteiner .p36 {
+        font-size: 10px;
+    }
+
+    .conteiner .box24 {
+        left: -42px;
+    }
+    .conteiner .inp {
+        position: relative;
+        right: 60px;
+        width: 176px;
+        height: 30px;
+    }
+
+    .conteiner .p34 {
+        position: relative;
+        right: 60px;
+        font-size: 10px;
+    }
+
+    .conteiner label {
+        position: relative;
+        right: 60px;
+    }
+
+    .conteiner .chec {
+        position: relative;
+        right: 60px;
+    }
+
+    .conteiner button {
+        position: relative;
+        right: 60px;
+        width: 181px;
+        height: 36px;
+    }
+
+    .conteiner .img13 {
+        width: 214px;
+        height: 245px;
+        background-size: 100% 100%;
+    }
+
+    .conteiner .box22 {
+        /* left: 685px; */
+        position: absolute;
+        top: 10px;
+        left: 226px;
+        /* right: 50px; */
+    }
+
+    .conteiner .p37 {
+        font-size: 12px;
+    }
+
+    .conteiner .club {
+        width: 50px;
+    }
+
+    .conteiner .map {
+        left: 102px;
+        top: 77px;
+     }
+
+     .conteiner .p38 {
+        position: relative;
+        bottom: 55px;
+     }
+
+    .conteiner .content12 {
+        gap: 25px;
+        left: 183px;
+        top: 3px;
+        flex-wrap: wrap;
+    }
+
+    .conteiner .content12 a {
+        font-size: 8px;
+    }
+
+    .conteiner .item {
+        width: 383px;
+        height: 430px;
+    }
+
+    .conteiner .img3 {
+        width: 374px;
+        background-size: 100% 100%;
+        height: 146px;
+    }
+    .conteiner .img4 {
+        width: 374px;
+        background-size: 100% 100%;
+        height: 146px;
+    }
+    .conteiner .img5 {
+        width: 374px;
+        background-size: 100% 100%;
+        height: 146px;
+    }
+
+    .conteiner .content2 {
+        height: 1510px;
+    }   
+
+    .conteiner .p10 {
+        font-size: 14px;
+    }
+
+    .conteiner .p11 {
+        font-size: 14px; 
+    }
+
+    .conteiner .p12 {
+        font-size: 12px;
+    }
+
+    .conteiner .p14 {
+        font-size: 14px;
+    }
+    .conteiner .p13 {
+        font-size: 14px;
+    }
+
+    .conteiner .pp {
+        /* position: absolute; */
+        left: 379px;
+        gap: 70px;
+        bottom: 5417px;
+    }
+
+    .conteiner .content6 {
+        top: 3673px;
+    }
+
+    .conteiner .img12 {
+        width: 90%;
+        height: 265px;
+        left: 21px;
+        top: 4864px;
+    }
+
+    .conteiner .img6 {
+        width: 173%;
+        position: relative;
+        right: 80px;
+    }
+
+    .conteiner .video {
+        width: 142px;
+        height: 39px;
+    }
+
+    .conteiner .arrow2 {
+        width: 173px;
+        height: 25px;
+    }
+
+    .conteiner .content11 {
+        height: 520px;
+        position: relative;
+    }
+
+    .conteiner .ull {
+        width: 78px;
+        position: absolute;
+        top: 230px;
+        right: 280px;
+    }
+
+    .conteiner .content12 a {
+        font-size: 13px;
+    }
+
+        .conteiner .ulll {
+        width: 78px;
+        position: absolute;
+        top: 230px;
+        right: 20px;
+    }
+
+    .conteiner .ullll {
+        width: 78px;
+        position: relative;
+        right: 152px;
+        bottom: -230px;
+    }
+
+}
+
+
+
+@media screen and (max-width: 375px) {
+
+    .conteiner .button {
+        left: 234px;
+    }
+
+    .conteiner .img2 {
+        /* position: absolute; */
+        right: 70px;
+        width: 145px;
+    }
+
+    .conteiner .box2 {
+        /* position: absolute; */
+        left: 182px;
+        bottom: 192px;
+    }
+
+    .conteiner .item {
+        width: 334px;
+        height: 430px;
+    }
+
+    .conteiner .img3 {
+        width: 325px;
+        background-size: 100% 100%;
+        height: 146px;
+    }
+    .conteiner .img4 {
+        width: 325px;
+        background-size: 100% 100%;
+        height: 146px;
+    }
+    .conteiner .img5 {
+        width: 325px;
+        background-size: 100% 100%;
+        height: 146px;
+    }
+
+    .conteiner .content2 {
+        height: 1510px;
+    }   
+
+    .conteiner .p10 {
+        font-size: 14px;
+    }
+
+    .conteiner .p11 {
+        font-size: 14px; 
+    }
+
+    .conteiner .p12 {
+        font-size: 12px;
+    }
+
+    .conteiner .p14 {
+        font-size: 14px;
+    }
+    .conteiner .p13 {
+        font-size: 14px;
+    }
+
+    .conteiner .img6 {
+        width: 193%;
+        position: relative;
+        right: 80px;
+    }
+
+    .conteiner .video {
+        width: 572px;
+        height: 40px;
+    }
+
+    .conteiner .arrow2 {
+        width: 123px;
+        height: 26px;
+    }
+
+    .conteiner .box8 {
+        width: 340px;
+        height: 437px;
+    }
+
+    .conteiner .item1 {
+        width: 155px;
+        height: 405px;
+    }
+
+    .conteiner .content6 {
+        top: 3691px;
+    }
+
+    .conteiner .p37 {
+        font-size: 10px; 
+    }
+
+    .conteiner .p36 {
+        font-size: 8px;
+    }
+
+    .conteiner .box24 {
+        left: -57px;
+        top: -79px;
+    }
+
+    .conteiner .img13 {
+        position: relative;
+        right: 9px;
+    }
+
+    .conteiner .box22 {
+        /* left: 685px; */
+        position: absolute;
+        top: 10px;
+        left: 205px;
+    }
+
+    .conteiner .box25 {
+        bottom: 25px;
+    }
+
+    .conteiner .content11 {
+        height: 520px;
+        position: relative;
+    }
+
+    .conteiner .ull {
+        width: 78px;
+        position: absolute;
+        top: 230px;
+        right: 240px;
+    }
+
+    .conteiner .content12 a {
+        font-size: 13px;
+    }
+
+        .conteiner .ulll {
+        width: 78px;
+        position: absolute;
+        top: 230px;
+        right: 20px;
+    }
+
+    .conteiner .ullll {
+        width: 78px;
+        position: relative  ;
+        right: 50px;
+        bottom: -6px;
+    }
+}
+
+@media screen and (max-width: 320px){
+    .conteiner .kema {
+        width: 114%;
+    }
+
+    .conteiner .a1 {
+        top: 340px;
+        right: 186px;
+    }
+
+    .conteiner .ovval {
+        top: 130px;
+        left: 42px;
+    }
+
+    .conteiner .button {
+        left: 200px;
+    }
+
+    .conteiner .p5 {
+        position: relative;
+        right: 78px;
+        font-size: 9px;
+    }
+    .conteiner .p3 {
+        position: relative;
+        right: 78px;
+        font-size: 9px;
+    }
+    .conteiner .p4 {
+        position: relative;
+        right: 78px;
+        font-size: 9px;
+    }
+
+    .conteiner .box {
+        right: 78px;
+    }
+
+    .conteiner .box1 {
+        position: absolute;
+        left: 110px;
+    }
+
+    .conteiner .img1 {
+        position: absolute;
+        right: 230px;
+        top: 76px;
+        left: 152px;
+        width: 141px;
+        height: 155px;
+        background-size: 126% 100%;
+    }
+
+    .conteiner .img2 {
+        right: 80px;
+        width: 141px;
+        height: 155px;
+        background-size: 150% 100%;
+    }
+
+    .conteiner .box2 {
+        /* position: absolute; */
+        left: 141px;
+        bottom: 157px;
+    }
+
+    .conteiner .p6 {
+        top:    -230px;
+    }
+
+    .conteiner .item {
+        width: 282px;
+        height: 430px;
+    }
+
+    .conteiner .img3 {
+        width: 272px;
+        background-size: 100% 100%;
+        height: 146px;
+    }
+    .conteiner .img4 {
+        width: 272px;
+        background-size: 100% 100%;
+        height: 146px;
+    }
+    .conteiner .img5 {
+        width: 272px;
+        background-size: 100% 100%;
+        height: 146px;
+    }
+
+    .conteiner .img6 {
+        width: 240%;
+        position: relative;
+        right: 80px;
+    }
+
+    .conteiner .arrow2 {
+        width: 73px;
+        height: 23px;
+    }
+}
